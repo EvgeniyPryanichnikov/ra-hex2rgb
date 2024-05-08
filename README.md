@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/vuoklo5odekdu4di?svg=true)](https://ci.appveyor.com/project/EvgeniyPryanichnikov/ra-hex2rgb)
+
 Конвертер цветов из HEX в RGB
 ===
 
